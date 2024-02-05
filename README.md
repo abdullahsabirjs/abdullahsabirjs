@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi, I'm Abdullah</h1>
 <h3 align="center">A passionate Mern stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Blogs website**
+- I’m currently working on **Blogs website**
 
-- 🌱 I’m currently learning **React from SMIT**
+- I’m currently learning **React from SMIT**
 
-- 👨‍💻 All of my projects are available at [https://abdullahh-portfolio.netlify.app/](https://abdullahh-portfolio.netlify.app/)
+- All of my projects are available at [https://abdullahh-portfolio.netlify.app/](https://abdullahh-portfolio.netlify.app/)
 
-- 📫 How to reach me **mailk1abdullah892@gmail.com**
+- How to reach me **mailk1abdullah892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
